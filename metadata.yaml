@@ -1,0 +1,32 @@
+_repo: Mi-tio-y-mi-cura_27121
+_version: 0.1.0
+alternative_title: Mon oncle et mon curé. Spanish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: La Brète, Jean de
+    aliases:
+    - De La Brète, Jean
+    - La Brete, Jean de
+    - Cherbonelle, Alice
+    - Brète, Jean de La
+    birthdate: 1854
+    deathdate: 1945
+    gutenberg_agent_id: '25891'
+    url: http://www.gutenberg.org/2009/agents/25891
+description: ''
+gutenberg_issued: '2008-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27121'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into Spanish'
+title: Mi tio y mi cura
+url: http://www.gutenberg.org/ebooks/27121
